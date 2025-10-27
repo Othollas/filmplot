@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CinéMax - Catalogue de Films</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">🎬 CinéMax</div>
+
+            <div class="controls">
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="🔍 Rechercher un film...">
+                </div>
+
+                <select id="sortSelect">
+                    <option value="">Trier par...</option>
+                    <option value="title-asc">Titre (A-Z)</option>
+                    <option value="title-desc">Titre (Z-A)</option>
+                    <option value="year-asc">Année ▲</option>
+                    <option value="year-desc">Année &#9660;</option>
+                    <option value="rating-desc">Note ▼</option>
+                </select>
+
+                <button id="favoritesBtn">⭐ Favoris</button>
+            </div>
+
+            <div class="genre-filters" id="genreFilters"></div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="movie-count" id="movieCount">Chargement des films...</div>
+        <div class="movies-grid" id="moviesGrid"></div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal" id="movieModal">
+        <div class="modal-content">
+            <div class="modal-header" id="modalHeader"></div>
+            <button class="close-modal" id="closeModal">&times;</button>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+
+ <script src="./script.js"></script>
+</body>
+
+</html>
