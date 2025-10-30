@@ -1,0 +1,299 @@
+[
+    {
+                "id": 1,
+                "title": "Inception",
+                "year": 2010,
+                "rating": 8.8,
+                "genre": [
+            "Science-Fiction",
+            "Action"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+                "overview": "Dom Cobb est un voleur expérimenté dans l'art d'extraire des secrets du subconscient pendant le sommeil. Cette compétence rare fait de lui un atout précieux dans le monde de l'espionnage industriel.",
+                "duration": 148,
+                "cast": [
+            "Leonardo DiCaprio",
+            "Marion Cotillard",
+            "Tom Hardy",
+            "Ellen Page"
+        ]
+    },
+    {
+                "id": 2,
+                "title": "The Dark Knight",
+                "year": 2008,
+                "rating": 9.0,
+                "genre": [
+            "Action",
+            "Drame"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/hkBaDkMWbLaf8B1lsWsKX7Ew3Dd.jpg",
+                "overview": "Batman affronte le Joker, un criminel anarchique qui veut plonger Gotham City dans le chaos. Un chef-d'œuvre du film de super-héros.",
+                "duration": 152,
+                "cast": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart",
+            "Michael Caine"
+        ]
+    },
+    {
+                "id": 3,
+                "title": "Pulp Fiction",
+                "year": 1994,
+                "rating": 8.9,
+                "genre": [
+            "Drame",
+            "Action"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/4cDFJr4HnXN5AdPw4AKrmLlMWdO.jpg",
+                "overview": "L'histoire de deux tueurs à gages, d'un boxeur et d'un couple de braqueurs s'entremêlent dans cette œuvre culte de Tarantino.",
+                "duration": 154,
+                "cast": [
+            "John Travolta",
+            "Samuel L. Jackson",
+            "Uma Thurman",
+            "Bruce Willis"
+        ]
+    },
+    {
+                "id": 4,
+                "title": "Interstellar",
+                "year": 2014,
+                "rating": 8.6,
+                "genre": [
+            "Science-Fiction",
+            "Drame"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+                "overview": "Une équipe d'explorateurs voyage à travers un trou de ver dans l'espace pour assurer la survie de l'humanité.",
+                "duration": 169,
+                "cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain",
+            "Michael Caine"
+        ]
+    },
+    {
+                "id": 5,
+                "title": "The Shawshank Redemption",
+                "year": 1994,
+                "rating": 9.3,
+                "genre": [
+            "Drame"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+                "overview": "Deux hommes emprisonnés se lient d'amitié au fil des ans, trouvant réconfort et rédemption à travers des actes de décence commune.",
+                "duration": 142,
+                "cast": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton",
+            "William Sadler"
+        ]
+    },
+    {
+                "id": 6,
+                "title": "The Matrix",
+                "year": 1999,
+                "rating": 8.7,
+                "genre": [
+            "Science-Fiction",
+            "Action"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+                "overview": "Un hacker découvre que la réalité n'est qu'une simulation informatique créée par des machines intelligentes.",
+                "duration": 136,
+                "cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving"
+        ]
+    },
+    {
+                "id": 7,
+                "title": "Forrest Gump",
+                "year": 1994,
+                "rating": 8.8,
+                "genre": [
+            "Drame",
+            "Comédie"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/3h1JZGDhZ8nzxdgvkxha0qBqi05.jpg",
+                "overview": "L'histoire extraordinaire d'un homme simple qui traverse les moments clés de l'histoire américaine.",
+                "duration": 142,
+                "cast": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise",
+            "Sally Field"
+        ]
+    },
+    {
+                "id": 8,
+                "title": "The Godfather",
+                "year": 1972,
+                "rating": 9.2,
+                "genre": [
+            "Drame"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+                "overview": "Le patriarche vieillissant d'une dynastie criminelle transfère le contrôle de son empire à son fils réticent.",
+                "duration": 175,
+                "cast": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan",
+            "Diane Keaton"
+        ]
+    },
+    {
+                "id": 9,
+                "title": "Fight Club",
+                "year": 1999,
+                "rating": 8.8,
+                "genre": [
+            "Drame"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+                "overview": "Un employé de bureau insomniaque et un vendeur de savon forment un club de combat clandestin.",
+                "duration": 139,
+                "cast": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Helena Bonham Carter",
+            "Meat Loaf"
+        ]
+    },
+    {
+                "id": 10,
+                "title": "Parasite",
+                "year": 2019,
+                "rating": 8.6,
+                "genre": [
+            "Drame",
+            "Comédie"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+                "overview": "Une famille pauvre s'infiltre progressivement dans la vie d'une riche famille, avec des conséquences inattendues.",
+                "duration": 132,
+                "cast": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong",
+            "Choi Woo-shik"
+        ]
+    },
+    {
+                "id": 11,
+                "title": "Get Out",
+                "year": 2017,
+                "rating": 7.7,
+                "genre": [
+            "Horreur",
+            "Drame"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/6t0JJCQmvhCKAV1M9J7zRsGZ7eQ.jpg",
+                "overview": "Un jeune homme noir découvre un secret troublant lors d'un week-end chez les parents de sa petite amie blanche.",
+                "duration": 104,
+                "cast": [
+            "Daniel Kaluuya",
+            "Allison Williams",
+            "Bradley Whitford",
+            "Catherine Keener"
+        ]
+    },
+    {
+                "id": 12,
+                "title": "A Quiet Place",
+                "year": 2018,
+                "rating": 7.5,
+                "genre": [
+            "Horreur",
+            "Science-Fiction"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/roYyPiQDQKmIKUEhO912693tSja.jpg",
+                "overview": "Une famille doit vivre en silence pour éviter d'être chassée par des créatures qui attaquent au moindre son.",
+                "duration": 90,
+                "cast": [
+            "Emily Blunt",
+            "John Krasinski",
+            "Millicent Simmonds",
+            "Noah Jupe"
+        ]
+    },
+    {
+                "id": 13,
+                "title": "Blade Runner 2049",
+                "year": 2017,
+                "rating": 8.0,
+                "genre": [
+            "Science-Fiction",
+            "Drame"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/ilRyazdMJwN05exqhwK4tMKBYZs.jpg",
+                "overview": "Un blade runner découvre un secret longtemps enfoui qui pourrait plonger la société dans le chaos.",
+                "duration": 164,
+                "cast": [
+            "Ryan Gosling",
+            "Harrison Ford",
+            "Ana de Armas",
+            "Jared Leto"
+        ]
+    },
+    {
+                "id": 14,
+                "title": "Mad Max: Fury Road",
+                "year": 2015,
+                "rating": 8.1,
+                "genre": [
+            "Action",
+            "Science-Fiction"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/tbhdm8UJAb4ViCTsulYFL3lxMCd.jpg",
+                "overview": "Dans un désert post-apocalyptique, Max s'allie à Furiosa pour échapper à un tyran et à son armée.",
+                "duration": 120,
+                "cast": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult",
+            "Hugh Keays-Byrne"
+        ]
+    },
+    {
+                "id": 15,
+                "title": "The Grand Budapest Hotel",
+                "year": 2014,
+                "rating": 8.1,
+                "genre": [
+            "Comédie",
+            "Drame"
+        ],
+                "poster": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/original/6gYS8HIXnEA1qVaHBXDqJAH3RHZ.jpg",
+                "overview": "Les aventures de Gustave H, concierge légendaire d'un célèbre hôtel européen, et de son protégé.",
+                "duration": 99,
+                "cast": [
+            "Ralph Fiennes",
+            "Tony Revolori",
+            "Saoirse Ronan",
+            "Willem Dafoe"
+        ]
+    }
+]
